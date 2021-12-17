@@ -1,4 +1,3 @@
 <resources>
     <string name="app_name">MyPaginationLibrary</string>
-    <string name="error">Error !! Tap to retry</string>
 </resources>
