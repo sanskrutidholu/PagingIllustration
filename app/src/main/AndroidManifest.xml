@@ -12,6 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyPaginationLibrary">
         <activity
+            android:name=".pagingSample2.BasicActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".pagingSample1.MainActivity"
             android:exported="true">
             <intent-filter>

@@ -3,13 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/patel/AndroidProjects/myprojects/JetpackComposeSamples/MyPaginationLibrary/app/src/main/res/drawable/ic_star.xml" value="0.2171875" />
+        <entry key="..\:/patel/AndroidProjects/myprojects/JetpackComposeSamples/MyPaginationLibrary/app/src/main/res/drawable/loader.xml" value="0.1" />
+        <entry key="..\:/patel/AndroidProjects/myprojects/JetpackComposeSamples/MyPaginationLibrary/app/src/main/res/drawable/remote.xml" value="0.1" />
+        <entry key="..\:/patel/AndroidProjects/myprojects/JetpackComposeSamples/MyPaginationLibrary/app/src/main/res/drawable/room.xml" value="0.1" />
         <entry key="..\:/patel/AndroidProjects/myprojects/JetpackComposeSamples/MyPaginationLibrary/app/src/main/res/drawable/star.xml" value="0.1" />
+        <entry key="..\:/patel/AndroidProjects/myprojects/JetpackComposeSamples/MyPaginationLibrary/app/src/main/res/layout/activity_basic.xml" value="0.1" />
         <entry key="..\:/patel/AndroidProjects/myprojects/JetpackComposeSamples/MyPaginationLibrary/app/src/main/res/layout/activity_detailed.xml" value="0.19739583333333333" />
         <entry key="..\:/patel/AndroidProjects/myprojects/JetpackComposeSamples/MyPaginationLibrary/app/src/main/res/layout/activity_first.xml" value="0.19739583333333333" />
+        <entry key="..\:/patel/AndroidProjects/myprojects/JetpackComposeSamples/MyPaginationLibrary/app/src/main/res/layout/activity_front.xml" value="0.19739583333333333" />
         <entry key="..\:/patel/AndroidProjects/myprojects/JetpackComposeSamples/MyPaginationLibrary/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/patel/AndroidProjects/myprojects/JetpackComposeSamples/MyPaginationLibrary/app/src/main/res/layout/each_row.xml" value="0.19739583333333333" />
+        <entry key="..\:/patel/AndroidProjects/myprojects/JetpackComposeSamples/MyPaginationLibrary/app/src/main/res/layout/footer_item.xml" value="0.1" />
         <entry key="..\:/patel/AndroidProjects/myprojects/JetpackComposeSamples/MyPaginationLibrary/app/src/main/res/layout/item_list_footer.xml" value="0.1" />
         <entry key="..\:/patel/AndroidProjects/myprojects/JetpackComposeSamples/MyPaginationLibrary/app/src/main/res/layout/item_news.xml" value="0.1" />
+        <entry key="..\:/patel/AndroidProjects/myprojects/JetpackComposeSamples/MyPaginationLibrary/app/src/main/res/layout/repo_item.xml" value="0.13333333333333333" />
+        <entry key="..\:/patel/AndroidProjects/myprojects/JetpackComposeSamples/MyPaginationLibrary/app/src/main/res/menu/nav_menu.xml" value="0.1" />
+        <entry key="..\:/patel/AndroidProjects/myprojects/JetpackComposeSamples/MyPaginationLibrary/app/src/main/res/xml/motion_loader.xml" value="0.1" />
       </map>
     </option>
   </component>
